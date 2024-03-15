@@ -7,7 +7,7 @@ public class BaseValidation extends BaseTest{
 	public void urlValidation() {
 		System.out.println(driver.getCurrentUrl());
 		
-
+//some code changes
 		
 	}
 
